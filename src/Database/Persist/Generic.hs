@@ -8,9 +8,9 @@
 --------------------------------------------------------------------------------
 -- |
 -- Module      : Database.Persist.Generic
--- Copyright   : (c) 2020 David Johnson
+-- Copyright   : (c) 2025 David Johnson
 -- License     : All Rights Reserved
--- Maintainer  : David Johnson <djohnson.m@gmail.com>
+-- Maintainer  : David Johnson <code@dmj.io>
 -- Stability   : Experimental
 -- Portability : GHC
 --
